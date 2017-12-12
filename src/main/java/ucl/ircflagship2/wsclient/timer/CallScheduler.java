@@ -25,6 +25,7 @@ package ucl.ircflagship2.wsclient.timer;
 
 import javax.ejb.Singleton;
 import javax.ejb.LocalBean;
+import javax.ejb.Startup;
 
 /**
  *
@@ -32,6 +33,7 @@ import javax.ejb.LocalBean;
  */
 @Singleton
 @LocalBean
+@Startup
 public class CallScheduler {
 
   // Add business logic below. (Right-click in editor and choose

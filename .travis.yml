@@ -7,7 +7,7 @@ deploy:
   password:
     secure: Bcsrerx6kPYjGKAwU6EL22LH8uR83q9PreAnWhZYigZcvOHMwnYgTiW9nkPZnJSP5BMTVhF42m7dqWStjutLg9ATAdG6ccGlUiRcjZNFigrZZvEf8GeHVTBy8GzEvCBZ8SJhELTJ/Xe1S2MReDUu6iZUMd7wvHahjRFxJHAfgTQp6Ez0gHk9PokZUd3/zYDhqunn8zm7C0P+e4rTzI4KRpwKMJWfqhD+d5OC+BkNNujmTiiWlHvBq/gK6mpK0s3bs21LBA4AdQKtmDeHVpesZ6VlV03ImRvCVMGMjKCDIA7aWkNW/UiCLVLKUxiBptPsxp3MhglcgU6jDyMdcEFKf5VKyKOZCRSZv1aQQQEDWW1XfIqRR964mT5b2wNfapDi6l6h21M5JRmKCjxoxx676+Up/p5xngm+RtsM+1KE9a7/P+tDr4VMUF29gsxet7BOAM0qT4zvEE5dtiUv10ROwgrixU+GX0JUOGQ3qPwIw67/MmQefIXB0cgvHteCynjYK4BKC3/ChrNw2yh6TSdDJQQtwjajMAowGkLFN/XKdTc9goQW4yB5Kav5zXh9iFgiA8GkU8Sxv2Wg155Ox+QBw6R3WxS+qtnbezBAJP8Q9lNyg8HQi9tYbG8WXEzR0IT7bhlCuC/iNA7tErPha97yOI403J6u7+QPvl0c9Qsfup4=
   app: wsclient-openshift-poc
-  domain: ''
+  domain: wsclient-openshift-poc-wsclient-poc.a3c1.starter-us-west-1.openshiftapps.com
   on:
     repo: UCL/wsclient-openshift-poc
 
